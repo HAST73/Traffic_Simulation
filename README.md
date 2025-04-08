@@ -15,3 +15,7 @@
 <b>Movement Animation</b> Vehicles move along the road, changing lanes when encountering obstacles.
 
 <b>Graphical Interface</b> The graphical user interface allows interaction with the simulation through buttons.</p>
+
+<h2 align="left">Preview</h2>
+
+<img src="preview.jpg" alt="Traffic Simulation Preview" width="600">
